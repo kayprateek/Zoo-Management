@@ -1,5 +1,5 @@
 # Zoo-Management
-Search and manage animal records in a zoo using file concepts in C language.
+Manage animal records in a zoo using file concepts in C++ language.
 You can search, delete, insert, count and edit records based on various parameters.
 The data is then stored and retrieved from a file.
 
